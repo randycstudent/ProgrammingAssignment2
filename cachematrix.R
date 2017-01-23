@@ -2,6 +2,7 @@
 ## that stores a numeric matrix and cache's its inverse.
 
 ## The first function, makeCacheMatrix, creates a list containing
+## a matrix, potentially a cache for the inverse, and
 ## functions to do the following
 ##
 ## - set the value of the matrix
